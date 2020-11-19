@@ -1,0 +1,17 @@
+.qrcode-container{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+.qrcode-box{
+    border: 1px solid gray;
+    margin: 100px auto;
+    text-align: center;
+    width: 400px;
+    max-width: 70%;
+    padding: 20px;
+    height:150x;
+    display: flex;
+    flex-direction: column;
+}
